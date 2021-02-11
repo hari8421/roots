@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hari8421.github.io/roots/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/hari8421.github.io/roots/static/js/main.6e3c21e4.chunk.js",
+    "main.js.map": "/hari8421.github.io/roots/static/js/main.6e3c21e4.chunk.js.map",
+    "runtime-main.js": "/hari8421.github.io/roots/static/js/runtime-main.1d5e1ddd.js",
+    "runtime-main.js.map": "/hari8421.github.io/roots/static/js/runtime-main.1d5e1ddd.js.map",
+    "static/js/2.e5df89f8.chunk.js": "/hari8421.github.io/roots/static/js/2.e5df89f8.chunk.js",
+    "static/js/2.e5df89f8.chunk.js.map": "/hari8421.github.io/roots/static/js/2.e5df89f8.chunk.js.map",
+    "static/js/3.120f05fa.chunk.js": "/hari8421.github.io/roots/static/js/3.120f05fa.chunk.js",
+    "static/js/3.120f05fa.chunk.js.map": "/hari8421.github.io/roots/static/js/3.120f05fa.chunk.js.map",
+    "index.html": "/hari8421.github.io/roots/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/hari8421.github.io/roots/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e5df89f8.chunk.js.LICENSE.txt": "/hari8421.github.io/roots/static/js/2.e5df89f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d5e1ddd.js",
+    "static/js/2.e5df89f8.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6e3c21e4.chunk.js"
+  ]
+}
